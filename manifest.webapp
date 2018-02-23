@@ -1,0 +1,16 @@
+{
+  "name": "Assistant",
+  "short_name": "Assistant",
+  "start_url":  "https://assistant.google.com",
+  "fullscreen__": true,
+  "description": "Meet your Google Assistant.",
+  "theme":"#ffffff",
+  "cursor": true,
+  "ime_default_softkey_bar": true,
+  "default_locale": "en-US",
+  "icons": {
+    "56": "https://dominickuo.github.io/Assistant/128.png",
+    "128": "https://dominickuo.github.io/Assistant/128.png"
+  }
+}
+
